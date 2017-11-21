@@ -64,9 +64,6 @@
 .cov-date-body {
   background: #3F51B5;
   overflow: hidden;
-  font-size: 16px;
-  font-family: 'Roboto';
-  font-weight: 400;
   position: fixed;
   display: block;
   width: 400px;
